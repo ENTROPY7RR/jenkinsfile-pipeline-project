@@ -1,1 +1,1 @@
-print('My first python job which is run within Jenkinsfile.. Deniyorumm pollSCM')
+print('My first python job which is run within Jenkinsfile.. Deniyorum pollSCM')
